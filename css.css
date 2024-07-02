@@ -1,0 +1,19 @@
+.button-emoji {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .button-text {
+    font-family: "Press Start 2P", sans-serif;
+    text-transform: capitalize;
+  }
+  
+  .choice-button {
+    padding: 0.5rem 1rem;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 0.5rem;
+  }
+  
